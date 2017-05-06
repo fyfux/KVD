@@ -1,0 +1,2 @@
+# KVD
+Kvalifikācijas darbs
